@@ -10,9 +10,8 @@ I've been coding iOS Tweaks and making websites for several years.
 
 ---
 ## Languages
+![](https://img.shields.io/badge/ObjectiveC-0b1c36?style=flat&logo=ios)
 ![](https://img.shields.io/badge/HTML-f59542?style=flat&logo=html5)
 ![](https://img.shields.io/badge/Python-7ca7eb?style=flat&logo=python)
-![](https://img.shields.io/badge/ObjectiveC-0b1c36?style=flat&logo=ios)
-
 
 ---
