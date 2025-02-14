@@ -1,7 +1,7 @@
 # CobreDev
 [![](https://img.shields.io/badge/Twitter-CobreDev-blue?style=flat&logo=twitter)](https://twitter.com/CobreDev)
 [![](https://img.shields.io/badge/GitHub-CobreDev-lightgrey?style=flat&logo=github)](https://github.com/CobreDev)
-[![](https://img.shields.io/badge/Email-cooper%40cooperhull.com-9cf?style=flat&logo=mail.ru)](mailto:cooper@cooperhull.com)
+[![](https://img.shields.io/badge/Email-cobre%40cobre.dev-9cf?style=flat&logo=mail.ru)](mailto:cobre@cobre.dev)
 <!-- TO make screenshot of your code, copy below link:  
 https://carbon.now.sh/ -->
 ---
